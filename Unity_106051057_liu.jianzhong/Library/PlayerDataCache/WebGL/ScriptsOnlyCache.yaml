@@ -565,4 +565,4 @@ ScriptsOnlyBuild:
   scenePathNames:
   - Assets/Scenes/start.unity
   - Assets/Scenes/SampleScene.unity
-  playerPath: "C:/Users/user/OneDrive/\u6587\u4EF6/GitHub/ASIA_Unity_106051057_liu.jianzhong/web"
+  playerPath: C:/Users/A309/Documents/GitHub/ASIA_Unity_106051057_liu.jianzhong/web
